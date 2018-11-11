@@ -1,0 +1,4 @@
+SELECT *
+FROM movies;
+-- SELECT
+Query all rows and columns from the movies table--
